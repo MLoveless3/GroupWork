@@ -1,5 +1,8 @@
 import java.util.Scanner;
-
+/**
+ * 
+ * @author Mickey Loveless II
+ */
 public class p7MickeyLoveless
 {
 	public static void main(String[] args)
